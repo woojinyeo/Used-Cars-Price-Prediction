@@ -135,7 +135,7 @@ The heatmap was used to identify relationships between numerical vehicle charact
 
 ### Power vs Price
 
-![Power vs Price](<images/Power vs Price.png>)
+![Power vs Price](<images/Power%20vs.%20Price.png>)
 
 This visualization shows the relationship between vehicle power and used-car price.
 
@@ -143,7 +143,7 @@ This visualization shows the relationship between vehicle power and used-car pri
 
 ### Ridge Regression: Actual vs Predicted Prices
 
-![Ridge Actual vs Predicted](<images/Ridge Actual vs Predicted.png>)
+![Ridge Actual vs Predicted](<images/Ridge%20Regression.png>)
 
 The actual-versus-predicted plot shows how closely Ridge Regression estimates used-car prices compared with observed prices.
 
